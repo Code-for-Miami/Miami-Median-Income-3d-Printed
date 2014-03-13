@@ -1,4 +1,4 @@
-ndoch2013
+Miami NDoCH 2013
 =========
 
 
@@ -26,6 +26,10 @@ Legend I created to display the print at the event
 
 ####mia_median_income_by_zipcodes.stl
 STL file that can used to re-print. Exported from Modo and cleaned up in NetFab.
+
+
+####Renderings of mockups and the pictures finished project: 
+https://www.flickr.com/photos/jeromemd/sets/72157633991844851/
 
 
 ###Question? 
