@@ -16,7 +16,7 @@ I'd like to thank Richard Bookman, Ernie Hsiung for their inspiration and suppor
 ###Contents:
 
 ####mia_median_income_by_zipcodes_data.xlsx
-Raw sensus data.
+Raw census data.
 
 ####mia_median_income_by_zipcodes_legend.pdf
 Legend I created to display the print at the event
